@@ -31,7 +31,7 @@ npm start
 	- [ ] Traduza o app para português;
 	- [ ] Desabilite o botão `Clear completed` quando a lista estiver vazia ou sem itens completados;
 	- [ ] Valide e não permite a inclusão de itens repetidos e se conseguir marque o campo e/ou exiba uma mensagem em algum lugar ou modal.
-6. Me mande o link do seu fork por onde eu enviei o link desse projeto para você.
+6. Faça o `commit` e `push` e me mande o link do seu fork por onde eu enviei o link desse projeto para você.
 
 **Boa sorte, caso tenha alguma dúvida pode me chamar no discord.**
 
