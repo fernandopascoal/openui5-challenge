@@ -1,8 +1,8 @@
 # Desafio OpenUI5
 
-Olá dev, criei esse desafio para testar sua habilidades de adaptação nesse framework da SAP.
+Olá **DEV**, criei esse desafio para testar sua habilidades de adaptação nesse framework da SAP.
 
-O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar o desafio, faça o que conseguir, iremos avaliar tudo e como foi feito, mesmo que não esteja finalizado. Se quiser escreva abaixo alguma observação em seu fork. 
+O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar o desafio, faça o que conseguir, iremos avaliar tudo o que e como foi feito, mesmo que não esteja finalizado. Se quiser escreva abaixo alguma observação em seu fork. 
 
 **Observação:**
 
