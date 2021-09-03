@@ -1,3 +1,42 @@
+# Desafio OpenUI5
+
+Olá dev, criei esse desafio para testar sua habilidades de adaptação nesse framework da SAP.
+
+O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar o desafio, faça o que conseguir, iremos avaliar tudo e como foi feito, mesmo que não esteja finalizado. Se quiser escreva abaixo alguma observação em seu fork. 
+
+**Observação:**
+
+
+
+**Tempo Total Utilizado:** 
+
+
+
+## Atividades
+
+1. Anote o seu tempo desde esse item, no final escreva o mesmo em minutos no README do seu Fork no texto: `**Tempo Total Utilizado:**`. É muito importante que anote o tempo com atenção, a sua cobrança será feita em cima do desempenho/tempo desse desafio.
+2. Faça um fork desse projeto.
+3. Clone esse projeto em sua máquina e instale as dependências e rode o servidor localmente em sua máquina:
+```sh
+git clone git@github.com:thiagotognoli/openui5-challenge.git
+cd openui5-challenge
+npm install
+npm start
+```
+4. Rode o projeto no seu browser em: [http://localhost:8080/index.html](http://localhost:8080/index.html)
+5. Faça as seguintes alterações:
+	1. Traduza o app para português;
+	2. Desabilite o botão `Clear completed` quando a lista estive vazia ou sem itens completados;
+	3. Valide e não permite a inclusão de itens repetidos, se conseguir marque o campo e/ou exiba uma mensagem em algum lugar ou modal.
+
+
+**Boa sorte, caso tenha alguma dúvida pode me chamar no discord.**
+
+
+
+
+# DOCUMENTAÇÃO ORIGINAL (para consulta)
+
 ![OpenUI5 logo](http://openui5.org/images/OpenUI5_new_big_side.png)
 
 # openui5-sample-app
