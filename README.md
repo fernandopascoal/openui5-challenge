@@ -1,8 +1,10 @@
 # Desafio OpenUI5
 
-Olá **DEV**, criei esse desafio para testar sua habilidades de adaptação nesse framework da SAP.
+Olá **DEV**, criei esse desafio para testar suas habilidades técnicas e de adaptação nesse framework da SAP.
 
-O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar o desafio, faça o que conseguir, iremos avaliar tudo o que e como foi feito, mesmo que não esteja finalizado. Se quiser escreva abaixo alguma observação em seu fork. 
+Iremos avaliar tudo o que e como foi feito, mesmo que não esteja finalizado. Não se fruste se não conseguir terminar o desafio, faça o que conseguir.  
+
+Se quiser fique a vontade para escrever abaixo alguma observação em seu fork. 
 
 **Observação:**
 
@@ -11,12 +13,11 @@ O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar
 **Tempo Total Utilizado:** 
 
 
-
 ## Atividades
 
-1. Anote o seu tempo desde esse item, no final escreva o mesmo em minutos no README do seu Fork no texto `**Tempo Total Utilizado:**` acima. É muito importante que anote o tempo com atenção, a sua cobrança será feita em cima do desempenho/tempo desse desafio.
-2. Faça um fork desse projeto.
-3. Clone esse projeto, instale as dependências e rode o servidor localmente:
+1. Anote o seu tempo a partir daqui, no final o escreva em minutos nesse README do seu *fork* no texto `**Tempo Total Utilizado:**` acima. É muito importante que anote o tempo com atenção, a sua cobrança será feita em cima do desempenho/tempo desse desafio.
+2. Faça um *fork* desse projeto.
+3. Faça um clone do seu *fork*, instale as dependências e rode o servidor localmente:
 ```sh
 git clone git@github.com:thiagotognoli/openui5-challenge.git
 cd openui5-challenge
@@ -25,9 +26,9 @@ npm start
 ```
 4. Rode o projeto no seu browser em: [http://localhost:8080/index.html](http://localhost:8080/index.html)
 5. Faça as seguintes alterações:
-	1. Traduza o app para português;
-	2. Desabilite o botão `Clear completed` quando a lista estive vazia ou sem itens completados;
-	3. Valide e não permite a inclusão de itens repetidos, se conseguir marque o campo e/ou exiba uma mensagem em algum lugar ou modal.
+	- [ ] Traduza o app para português;
+	- [ ] Desabilite o botão `Clear completed` quando a lista estiver vazia ou sem itens completados;
+	- [ ] Valide e não permite a inclusão de itens repetidos e se conseguir marque o campo e/ou exiba uma mensagem em algum lugar ou modal.
 6. Me mande o link do seu fork por onde eu enviei o link desse projeto para você.
 
 **Boa sorte, caso tenha alguma dúvida pode me chamar no discord.**
