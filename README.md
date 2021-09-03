@@ -14,9 +14,9 @@ O objetivo é avaliar sua adaptação, não se fruste se não conseguir terminar
 
 ## Atividades
 
-1. Anote o seu tempo desde esse item, no final escreva o mesmo em minutos no README do seu Fork no texto: `**Tempo Total Utilizado:**`. É muito importante que anote o tempo com atenção, a sua cobrança será feita em cima do desempenho/tempo desse desafio.
+1. Anote o seu tempo desde esse item, no final escreva o mesmo em minutos no README do seu Fork no texto `**Tempo Total Utilizado:**` acima. É muito importante que anote o tempo com atenção, a sua cobrança será feita em cima do desempenho/tempo desse desafio.
 2. Faça um fork desse projeto.
-3. Clone esse projeto em sua máquina e instale as dependências e rode o servidor localmente em sua máquina:
+3. Clone esse projeto, instale as dependências e rode o servidor localmente:
 ```sh
 git clone git@github.com:thiagotognoli/openui5-challenge.git
 cd openui5-challenge
