@@ -21,7 +21,7 @@ Se quiser fique a vontade para escrever abaixo alguma observação em seu fork.
 2. Faça um *fork* desse projeto.
 3. Faça um clone do seu *fork*, instale as dependências e rode o servidor localmente:
 ```sh
-git clone git@github.com:thiagotognoli/openui5-challenge.git
+git clone git@github.com:seu_usuario/openui5-challenge.git
 cd openui5-challenge
 npm install
 npm start
