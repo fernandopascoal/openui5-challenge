@@ -2,7 +2,9 @@
 
 Olá **DEV**, criei esse desafio para testar suas habilidades técnicas e de adaptação nesse framework da SAP.
 
-Iremos avaliar tudo o que e como foi feito, mesmo que não esteja finalizado. Não se fruste se não conseguir terminar o desafio, faça o que conseguir.  
+Iremos avaliar tudo o que e como foi feito, mesmo que não esteja finalizado. Não se fruste se não conseguir terminar o desafio, faça o que conseguir.
+
+A documentação oficial do framework pode ser encontrada em https://openui5.org/.
 
 Se quiser fique a vontade para escrever abaixo alguma observação em seu fork. 
 
