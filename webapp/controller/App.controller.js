@@ -26,13 +26,31 @@ sap.ui.define([
 			var oModel = this.getView().getModel();
 			var aTodos = oModel.getProperty("/todos").map(function (oTodo) { return Object.assign({}, oTodo); });
 
-			aTodos.push({
-				title: oModel.getProperty("/newTodo"),
-				completed: false
+
+			var todoList = aTodos.map(function(oTodo) {
+				 return oTodo.title;
 			});
 
+			if( todoList.includes(oModel.getProperty("/newTodo") )) {
+
+				alert("Essa tarefa já existe")
+
+			} else{
+				
+				aTodos.push({
+					title: oModel.getProperty("/newTodo"),
+					completed: false
+					
+				});
+	
+			};
+			
+
+
+		
 			oModel.setProperty("/todos", aTodos);
 			oModel.setProperty("/newTodo", "");
+			
 		},
 
 		/**
@@ -43,6 +61,9 @@ sap.ui.define([
 			var aTodos = oModel.getProperty("/todos").map(function (oTodo) { return Object.assign({}, oTodo); });
 
 			var i = aTodos.length;
+
+			
+			
 			while (i--) {
 				var oTodo = aTodos[i];
 				if (oTodo.completed) {
@@ -51,6 +72,7 @@ sap.ui.define([
 			}
 
 			oModel.setProperty("/todos", aTodos);
+			
 		},
 
 		/**
@@ -61,8 +83,14 @@ sap.ui.define([
 			var aTodos = oModel.getProperty("/todos") || [];
 
 			var iItemsLeft = aTodos.filter(function(oTodo) {
-				return oTodo.completed !== true;
+				return oTodo.completed !== false;
 			}).length;
+
+			if(iItemsLeft > 0) {
+					oModel.setProperty("/itemsRemovable", true);
+			} else {
+				oModel.setProperty("/itemsRemovable", false);
+			};
 
 			oModel.setProperty("/itemsLeftCount", iItemsLeft);
 		},
