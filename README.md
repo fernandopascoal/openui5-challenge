@@ -12,7 +12,7 @@ Se quiser fique a vontade para escrever abaixo alguma observação em seu fork.
 
 
 
-**Tempo Total Utilizado:** 
+**Tempo Total Utilizado: 205min** 
 
 
 ## Atividades
